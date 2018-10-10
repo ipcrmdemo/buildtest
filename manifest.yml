@@ -6,4 +6,3 @@ applications:
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
   env:
     ATOMIST_TEAM: A2MO4H2RG
-  path: target/buildtest-0.1.0-SNAPSHOT.jar
